@@ -6,7 +6,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 ## Навыки и технологии
-**Jira**, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
+>Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ## Проекты
@@ -14,8 +14,8 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Что нужно было сделать:
 проверка совместной работы с видео из раздела «Видеопрактика» преподавателя (в дальнейшем П) из портала на ПК и ученика (в дальнейшем У) из мобильного приложения Skyeng
-
-
+Как решала: составила план тестирования
+[Тест-план](https://talpeeva.atlassian.net/l/cp/J1fH56tp)
 
 
 
