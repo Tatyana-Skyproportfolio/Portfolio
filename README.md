@@ -14,10 +14,13 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Что нужно было сделать:
 проверка совместной работы с видео из раздела «Видеопрактика» преподавателя (в дальнейшем П) из портала на ПК и ученика (в дальнейшем У) из мобильного приложения Skyeng
+
 Как решала: составила план тестирования
 [Тест-план](https://talpeeva.atlassian.net/l/cp/J1fH56tp)
 
+[Отчет о тестировании](https://talpeeva.atlassian.net/l/cp/WjMasD1R)
+
+Вывод: Необходимо доработать приложение, исправив обнаруженные дефекты.
 
 
-Отчет
-https://talpeeva.atlassian.net/l/cp/WjMasD1R 
+
