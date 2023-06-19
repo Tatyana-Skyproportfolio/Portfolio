@@ -9,7 +9,7 @@
 >Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
-Проекты
+## Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
